@@ -30,5 +30,6 @@ function setUserName() {
 
 }
 if(storedName = "Fooey Evans"){
-	myImage.setAttribute('src', 'images/Fooey.jpg')
+	myImage.setAttribute('src', 'images/Fooey.jpg' width="800" height="682");
 }
+
