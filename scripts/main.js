@@ -29,7 +29,3 @@ function setUserName() {
   setUserName();
 
 }
-if(storedName = "Fooey Evans"){
-	myImage.setAttribute('src', 'images/Fooey.jpg');
-}
-
